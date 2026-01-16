@@ -21,26 +21,6 @@ In addition, I have worked on **data-driven and educational platforms**, buildin
 
 ---
 
-## Selected Projects
-
-### Supplier-Vendor Portal — Ather Energy
-
-**Full-stack web application deployed to production**
-
-* Developed using **Next.js** with REST API integration and secure authentication
-* Implemented **OWASP-aligned security improvements** and session/token management
-* Delivered within **three weeks**, the fastest go-live at Ather Energy
-
-### SchemaVerse
-
-**Game-based learning platform for MongoDB and NoSQL concepts**
-
-* Built with the **MERN stack**, including an in-browser code editor
-* Optimized **MongoDB aggregation pipelines** for efficient data retrieval
-* Supports **100+ daily users** and published at **IEEE CONECCT 2024**
-
----
-
 ## Technical Skills
 
 **Languages:** JavaScript, Java, Python, C++, C
