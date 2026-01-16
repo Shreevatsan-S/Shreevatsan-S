@@ -2,10 +2,6 @@
 
 # Shreevatsan Sithu Sudarsan
 
-</div>
-
-<div align="center">
-
 **Software Engineer | Full Stack · Security · Data-Focused**
 Building secure, scalable, and user-focused web systems
 
