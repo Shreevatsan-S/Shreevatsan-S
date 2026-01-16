@@ -2,7 +2,7 @@
 
 # Shreevatsan Sithu Sudarsan
 
-**Software Engineer | Full Stack · Security · Data-Focused**
+**Software Engineer — Full Stack | Security | Data**
 Building secure, scalable, and user-focused web systems
 
 [LinkedIn](https://www.linkedin.com/in/shreevatsan-sudarsan-6965352b4/) · [Portfolio](https://YOUR-PORTFOLIO-LINK.vercel.app) · [Email](mailto:ssshreevatsan2k@gmail.com)
@@ -11,55 +11,55 @@ Building secure, scalable, and user-focused web systems
 
 ---
 
-## About Me
+## About
 
-I’m a Computer Science undergraduate at **Amrita Vishwa Vidyapeetham** with hands-on experience building and shipping **production-ready web applications**. I enjoy working across the stack, with a strong focus on **application security, data handling, and reliable backend services**.
+I am a Computer Science undergraduate at **Amrita Vishwa Vidyapeetham** with hands-on experience building and shipping **production-ready web applications**. My primary interests lie in **application security, data handling, and reliable backend systems**, and I enjoy working across the full stack to deliver clean, maintainable, and scalable solutions.
 
-I recently interned at **Ather Energy**, where I helped deliver a supplier-vendor portal that went live within **3 weeks** (fastest rollout at the company). My work involved **API integration, authentication flows, OWASP Top 10 security fixes, and production deployments**, collaborating closely with backend and cross-functional teams in an agile environment.
+I recently interned at **Ather Energy**, where I contributed to a supplier-vendor portal that went live within **three weeks**, marking the fastest rollout at the company. My work included **API integration, authentication flows, OWASP Top 10 security remediation, and production deployment**, collaborating closely with backend and cross-functional teams in an agile environment.
 
-I’ve also worked on **data-driven and learning platforms**, building secure APIs and optimizing database queries, and I enjoy turning ideas into clean, usable products.
+In addition, I have worked on **data-driven and educational platforms**, building secure APIs and optimizing database queries, with a focus on turning ideas into simple, effective, and user-friendly products.
 
 ---
 
-## Featured Projects
+## Selected Projects
 
-### 🔹 Supplier-Vendor Portal @ Ather Energy
+### Supplier-Vendor Portal — Ather Energy
 
-**Full-stack web app shipped to production**
+**Full-stack web application deployed to production**
 
-* Built using **Next.js** with REST API integration and secure authentication
-* Implemented **OWASP-aligned security fixes** and session/token handling
-* Deployed within **3 weeks**, fastest go-live at Ather Energy
+* Developed using **Next.js** with REST API integration and secure authentication
+* Implemented **OWASP-aligned security improvements** and session/token management
+* Delivered within **three weeks**, the fastest go-live at Ather Energy
 
-### 🔹 SchemaVerse
+### SchemaVerse
 
-**Game-based MongoDB learning platform**
+**Game-based learning platform for MongoDB and NoSQL concepts**
 
-* MERN stack platform with in-browser code editor
-* Optimized **MongoDB aggregation pipelines** for fast data retrieval
+* Built with the **MERN stack**, including an in-browser code editor
+* Optimized **MongoDB aggregation pipelines** for efficient data retrieval
 * Supports **100+ daily users** and published at **IEEE CONECCT 2024**
 
 ---
 
-## Tech Stack
+## Technical Skills
 
 **Languages:** JavaScript, Java, Python, C++, C
 **Frontend:** React, Next.js, HTML, CSS, Tailwind
 **Backend:** Node.js, Express, REST APIs
 **Databases:** MongoDB, MySQL
 **Cloud & DevOps:** AWS, Docker, Kubernetes
-**Security:** OWASP Top 10, Authentication & Authorization, Web Security Testing
+**Security:** OWASP Top 10, Authentication and Authorization, Web Security Testing
 **Tools:** Git, GitHub, Postman, Jira, Linux
 
 ---
 
-## What I’m Looking For
+## Interests and Goals
 
-I’m interested in opportunities focused on **full-stack engineering, application security, data-driven systems, and cloud platforms**, where I can build reliable products that are used by real users and continue growing as a software engineer.
+I am seeking opportunities focused on **full-stack engineering, application security, data-driven systems, and cloud platforms**, where I can contribute to building reliable, user-facing products while continuing to grow as a software engineer.
 
 ---
 
-## Let’s Connect
+## Contact
 
 * LinkedIn: [https://www.linkedin.com/in/shreevatsan-sudarsan-6965352b4/](https://www.linkedin.com/in/shreevatsan-sudarsan-6965352b4/)
 * Email: [ssshreevatsan2k@gmail.com](mailto:ssshreevatsan2k@gmail.com)
