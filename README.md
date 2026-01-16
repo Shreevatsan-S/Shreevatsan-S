@@ -11,7 +11,7 @@ Building secure, scalable, and user-focused web systems
 
 ---
 
-## 👋 About Me
+## About Me
 
 I’m a Computer Science undergraduate at **Amrita Vishwa Vidyapeetham** with hands-on experience building and shipping **production-ready web applications**. I enjoy working across the stack, with a strong focus on **application security, data handling, and reliable backend services**.
 
@@ -21,9 +21,9 @@ I’ve also worked on **data-driven and learning platforms**, building secure AP
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔹 Supplier-Vendor Portal (Ather Energy)
+### 🔹 Supplier-Vendor Portal @ Ather Energy
 
 **Full-stack web app shipped to production**
 
@@ -39,17 +39,9 @@ I’ve also worked on **data-driven and learning platforms**, building secure AP
 * Optimized **MongoDB aggregation pipelines** for fast data retrieval
 * Supports **100+ daily users** and published at **IEEE CONECCT 2024**
 
-### 🔹 Secure API Platform
-
-**Backend service with security and data focus**
-
-* Built REST APIs with **Node.js and Express**
-* Added **JWT authentication, role-based access, rate limiting, and input validation**
-* Containerized with **Docker** and deployed to cloud
-
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** JavaScript, Java, Python, C++, C
 **Frontend:** React, Next.js, HTML, CSS, Tailwind
@@ -61,30 +53,16 @@ I’ve also worked on **data-driven and learning platforms**, building secure AP
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreevatsan-S&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreevatsan-S&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🎯 What I’m Looking For
+## What I’m Looking For
 
 I’m interested in opportunities focused on **full-stack engineering, application security, data-driven systems, and cloud platforms**, where I can build reliable products that are used by real users and continue growing as a software engineer.
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/shreevatsan-sudarsan-6965352b4/](https://www.linkedin.com/in/shreevatsan-sudarsan-6965352b4/)
-* 📧 Email: [ssshreevatsan2k@gmail.com](mailto:ssshreevatsan2k@gmail.com)
-* 🌐 Portfolio: [https://YOUR-PORTFOLIO-LINK.vercel.app](https://YOUR-PORTFOLIO-LINK.vercel.app)
+* LinkedIn: [https://www.linkedin.com/in/shreevatsan-sudarsan-6965352b4/](https://www.linkedin.com/in/shreevatsan-sudarsan-6965352b4/)
+* Email: [ssshreevatsan2k@gmail.com](mailto:ssshreevatsan2k@gmail.com)
+* Portfolio: [https://YOUR-PORTFOLIO-LINK.vercel.app](https://YOUR-PORTFOLIO-LINK.vercel.app)
 
 ---
-
-> “I like building secure systems that people actually enjoy using.”
