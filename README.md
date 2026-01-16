@@ -6,7 +6,7 @@
 
 Building secure, scalable, and user-focused web systems
 
-[LinkedIn](https://www.linkedin.com/in/shreevatsan-sudarsan-6965352b4/) · [Portfolio](https://YOUR-PORTFOLIO-LINK.vercel.app) · [Email](mailto:ssshreevatsan2k@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/shreevatsan-sudarsan-6965352b4/) · [Portfolio](https://shreevatsan-portfolio.vercel.app/) · [Email](mailto:ssshreevatsan2k@gmail.com)
 
 </div>
 
@@ -44,6 +44,6 @@ I am seeking opportunities focused on **full-stack engineering, application secu
 
 * LinkedIn: [https://www.linkedin.com/in/shreevatsan-sudarsan-6965352b4/](https://www.linkedin.com/in/shreevatsan-sudarsan-6965352b4/)
 * Email: [ssshreevatsan2k@gmail.com](mailto:ssshreevatsan2k@gmail.com)
-* Portfolio: [https://YOUR-PORTFOLIO-LINK.vercel.app](https://YOUR-PORTFOLIO-LINK.vercel.app)
+* Portfolio: [https://shreevatsan-portfolio.vercel.app/](https://shreevatsan-portfolio.vercel.app/)
 
 ---
