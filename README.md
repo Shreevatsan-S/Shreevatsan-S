@@ -34,12 +34,6 @@ In addition, I have worked on **data-driven and educational platforms**, buildin
 
 ---
 
-## Interests and Goals
-
-I am seeking opportunities focused on **full-stack engineering, application security, data-driven systems, and cloud platforms**, where I can contribute to building reliable, user-facing products while continuing to grow as a software engineer.
-
----
-
 ## Contact
 
 * LinkedIn: [https://www.linkedin.com/in/shreevatsan-sudarsan-6965352b4/](https://www.linkedin.com/in/shreevatsan-sudarsan-6965352b4/)
